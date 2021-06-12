@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <div>
-  <a href="https://github.com/LacerdaBruno">
+  <a href="https://github.com/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LacerdaBruno&show_icons=true&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacerdaBruno&layout=compact&theme=gotham"/>
 <div>
