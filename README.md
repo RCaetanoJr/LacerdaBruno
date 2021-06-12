@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/newton-cesar-0468171b7/)](https://www.linkedin.com/in/matheus-barcelos-552b2828/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/newton-cesar-0468171b7/)](https://www.linkedin.com/in/bruno-lacerda-7629626b//)
 
 <!--
 **LacerdaBruno/LacerdaBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
