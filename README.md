@@ -35,9 +35,12 @@ Here are some ideas to get you started:
   </div>
 <div style="display: inline_block"><br>
   Framework e banco de dados:<br>
-  <img align="center" alt="New-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
-  <img align="center" alt="New-Gh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="New-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <div style="display: inline_block"><br>
+  Versionamento de código:<br>
+  <img align="center" alt="New-Gh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>  
 </div>
 </div>
 </div> 
