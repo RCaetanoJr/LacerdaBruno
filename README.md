@@ -21,19 +21,24 @@ Here are some ideas to get you started:
   <a href="https://github.com/LacerdaBruno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LacerdaBruno&show_icons=true&theme=gotham"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacerdaBruno&layout=compact&theme=gotham"/></a>
-<div>
-
-  
+<div>  
  
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
   Desenvolvimento de aplicativos<br>
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+    </div>
+   <div style="display: inline_block"><br>
+  Desenvolvimento de Web<br>
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="New-Re" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    </div>
+  </div>
+   <div style="display: inline_block"><br>
+  Framework banco de dados<br>
   <img align="center" alt="New-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
   <img align="center" alt="New-Gh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+  </div>
 </div> 
