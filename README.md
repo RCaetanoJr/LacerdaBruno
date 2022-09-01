@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   
  
 <div style="display: inline_block"><br>
-  <div style="display: inline_block"><br>
-  Desenvolvimento de aplicativos
+  <div style="display: inline_block">
+  Desenvolvimento de aplicativos<br>
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="New-Re" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
