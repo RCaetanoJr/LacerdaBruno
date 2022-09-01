@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/LacerdaBruno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LacerdaBruno&show_icons=true&theme=gotham"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacerdaBruno&layout=compact&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacerdaBruno&layout=compact&theme=gotham"/></a>
 <div>
 
   
  
 <div style="display: inline_block"><br>
-  <div style="display: inline_block">
+  <div style="display: inline_block"><br>
   Desenvolvimento de aplicativos<br>
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
