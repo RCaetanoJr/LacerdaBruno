@@ -21,8 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/LacerdaBruno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LacerdaBruno&show_icons=true&theme=gotham"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacerdaBruno&layout=compact&theme=gotham"/></a>
-<div>  
- 
+<div>
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
   Desenvolvimento de aplicativos:<br>
